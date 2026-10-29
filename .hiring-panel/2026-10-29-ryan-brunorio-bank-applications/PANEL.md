@@ -47,3 +47,18 @@ Seven reviewers per resume (49 in total), each judging alone. No posting text wa
 | Truist RB Lakeland | REJECT | REJECT: same |
 
 The remaining rejections can only be fixed with facts from you (see RESUME-IMPROVED.md).
+
+## Round 2: after your 8 answers (2026-10-29)
+Added to all seven: deposits/withdrawals/check cashing; 8-accounts-per-week goal ("meeting it frequently"); covering the teller line and helping coworkers balance; fraud prevention and BSA/AML training; Floater titles at Wendy's and Chick-fil-A; My Brother's Keeper Coordinator (OPS, Part-Time), Polk State College; "Left for school; now on a 2-course load"; reliable own car for the Pasco County roles.
+
+| Resume | Round 1 | Round 2 |
+|---|---|---|
+| Chase Associate Banker, Zephyrhills | PASS | **PASS** |
+| Chase Associate Banker, Lakeland/Winter Haven | PASS | **PASS** |
+| MIDFLORIDA Part-Time Teller | PASS | **PASS** |
+| SouthState Universal Banker, Dade City | REJECT | **PASS** |
+| Truist Universal Banker, Zephyrhills | REJECT | **PASS** (after rewording the reason for leaving) |
+| Truist RB Zephyrhills | REJECT | REJECT: under 1-2 years of banking, no NMLS |
+| Truist RB Lakeland | REJECT | REJECT: same |
+
+Still flagged on all seven: the My Brother's Keeper dates ("2024 - 2026", which looks like it overlaps the Jan-Aug 2024 NYC internship) and its lack of bullets. Both need months and duties from you.
