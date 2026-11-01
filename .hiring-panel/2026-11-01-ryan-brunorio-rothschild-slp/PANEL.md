@@ -34,3 +34,27 @@
 
 ## Re-screen after fixes
 **Before:** PASS. **After:** PASS, with the typo, ordering and goal-miss problems gone. Remaining weak points: no Florida Southern GPA, MBK with no bullets, M&A interest claimed rather than shown, and webinars and simulations reading as attendance.
+
+## Run 2 (2026-11-01, after My Brother's Keeper and the May 2029 update)
+| Reviewer | Verdict | Line that hurt most |
+|---|---|---|
+| Automated screen | PASS | No Florida Southern GPA; no "valuation/modeling/deal" terms; webinars and Forage are low-weight |
+| Hiring manager (VP) | INTERVIEW (close) | Forage simulations, KKR webinars, and pricing with no revenue |
+| Reader: hiring manager | MAYBE | "Forage job simulations…" ("anyone can do free online simulations") |
+| Reader: rival | MAYBE | "Polk State GPA: 3.64" (community college, under 3.8) |
+| Reader: CEO | MAYBE | "designed a tiered B2B pricing model ($4K-$50K+/month)" ("a price list with no buyer") |
+| Reader: recruiter | MAYBE | "Polk State GPA: 3.64"; AA Summer 2026 + May 2029 looks like a five-year path |
+| Reader: teammate | MAYBE | "Industry engagement: … webinars" ("you'll pad your share of a group deck") |
+
+### Merged issues (worst first)
+1. **Webinars and Forage simulations read as padding.** *6 of 7.* **Fixed:** cut (Wall Street Prep kept).
+2. **No Florida Southern GPA; 3.64 is a community-college number.** *Rival, recruiter, R1, HM, screen.* Needs your Florida Southern GPA when posted.
+3. **PulmoSentinel leads with pricing and no customers.** *CEO, HM, rival, recruiter.* **Fixed:** moved to its own Entrepreneurship section, now leading with "26th of 531" and the pilot. The pricing line is removed.
+4. **Generic summary.** *Recruiter.* **Fixed:** removed. The M&A interest is now one plain line under Skills.
+5. **Class-year question:** an A.A. in Summer 2026 plus a bachelor's in May 2029. *Recruiter, HM, screen.* Needs your official class standing at Florida Southern.
+6. **"Led a 5-person team" as an intern.** *R1, teammate, HM.* Be ready to explain how the team was set up.
+7. **NYC 2024 vs Lakeland.** *HM, screen.* Interview answer: Polk State coursework online while in New York.
+8. **Wells Fargo ranges with no outcome.** *CEO.* Unchanged. No new facts.
+
+### Re-screen after fixes: PASS (narrowly)
+Remaining: no Florida Southern GPA, class standing unclear, and no deal or modeling evidence beyond Wall Street Prep in progress.
