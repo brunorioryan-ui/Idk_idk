@@ -2,7 +2,7 @@
 Lakeland, FL | (813) 858-8374 | brunorioryan@gmail.com
 
 ## EDUCATION
-**Florida Southern College** — Bachelor of Science in Finance | Lakeland, FL | Expected Graduation: December 2028
+**Florida Southern College** — Bachelor of Science in Finance | Lakeland, FL | Expected Graduation: May 2029
 - GPA: 4.0 [ADD: the term and credits this covers, e.g. "(Fall 2026 midterm, 15 credits)", or remove it until a term is graded]
 
 **Polk State College** — Associate in Arts | Lakeland, FL | Completed Summer 2026
